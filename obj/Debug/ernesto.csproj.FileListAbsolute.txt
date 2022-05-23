@@ -1,0 +1,8 @@
+C:\Users\laris\source\repos\ernesto\bin\Debug\ernesto.exe.config
+C:\Users\laris\source\repos\ernesto\bin\Debug\ernesto.exe
+C:\Users\laris\source\repos\ernesto\bin\Debug\ernesto.pdb
+C:\Users\laris\source\repos\ernesto\obj\Debug\ernesto.csproj.AssemblyReference.cache
+C:\Users\laris\source\repos\ernesto\obj\Debug\ernesto.csproj.SuggestedBindingRedirects.cache
+C:\Users\laris\source\repos\ernesto\obj\Debug\ernesto.csproj.CoreCompileInputs.cache
+C:\Users\laris\source\repos\ernesto\obj\Debug\ernesto.exe
+C:\Users\laris\source\repos\ernesto\obj\Debug\ernesto.pdb
